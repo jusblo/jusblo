@@ -17,3 +17,12 @@ With over 3 years of experience in data analysis and visualization, I specialize
 📫 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/justina-agblo/)
 
+
+## Core Competencies
+
+- **Data Analysis & Visualization** – Experienced in analyzing large datasets, identifying trends, and presenting insights clearly.  
+- **Programming & Tools** – Skilled in Python (Pandas, NumPy, Matplotlib), SQL, and advanced Excel functions.  
+- **Dashboarding & Reporting** – Proficient in building interactive dashboards and reports that support data-driven decisions.  
+- **Data Cleaning & Preparation** – Strong background in handling missing data, standardizing formats, and ensuring data quality.  
+- **Problem Solving** – Adept at using data to identify issues, propose solutions, and support strategic decisions.  
+- **Collaboration & Communication** – Able to translate technical insights into business-friendly language and work effectively with cross-functional teams.  
