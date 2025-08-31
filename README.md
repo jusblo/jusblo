@@ -26,3 +26,17 @@ With over 3 years of experience in data analysis and visualization, I specialize
 - **Data Cleaning & Preparation** – Strong background in handling missing data, standardizing formats, and ensuring data quality.  
 - **Problem Solving** – Adept at using data to identify issues, propose solutions, and support strategic decisions.  
 - **Collaboration & Communication** – Able to translate technical insights into business-friendly language and work effectively with cross-functional teams.  
+
+
+## 🌍 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jusblo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justina-agblo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maamleagblo@gmail.com)
+
+---
+
+## 💼 Portfolio 👇
+
+**Disclaimer ⚠️**: The datasets, analyses, and projects included in this portfolio are for demonstration purposes only and are not based on proprietary or sensitive information.
+They are designed to highlight my technical expertise in data science and analytics, while maintaining strict respect for data privacy and ethical standards.
