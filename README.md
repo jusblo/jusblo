@@ -1,3 +1,7 @@
+markdown
+
+# Introduction ✨
+
 👋 Hi, I’m Justina!  
 📊 Data Scientist | Data Analyst | Excel, SQL & Python Enthusiast  
 
